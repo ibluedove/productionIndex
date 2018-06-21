@@ -140,4 +140,4 @@ INSERT INTO e_role_resource (role_id,resource_id) VALUES ('SERVICE_CLIENT','auth
 INSERT INTO e_menu_i18n (id,key_,lang_,value_,system_code) VALUES ('menu.upm.authority_resource','menu.upm.authority_resource','','查授权资源','upm');
 INSERT INTO e_menu_i18n (id,key_,lang_,value_,system_code) VALUES ('menu.upm.authority_resource_zh_CN','menu.upm.authority_resource','zh_CN','查授权资源','upm');
 INSERT INTO e_menu_i18n (id,key_,lang_,value_,system_code) VALUES ('menu.upm.authority_resource_en_US','menu.upm.authority_resource','en_US','SEARCH AUTHORITY RESOURCE','upm');
-UPDATE e_resource SET iframe = 0;
+UPDATE e_resource SET iframe = 0; 
