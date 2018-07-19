@@ -5,4 +5,3 @@
 | |____           | |____| |__| |  | | Running Spring Boot ${spring-boot.version}  
 |______|          |______|\____/   |_| 
  
- 
