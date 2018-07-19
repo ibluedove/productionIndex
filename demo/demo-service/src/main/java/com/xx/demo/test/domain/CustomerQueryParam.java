@@ -9,7 +9,7 @@ import com.loy.e.data.permission.data.DefaultDataPermissionQueryParam;
 
 /**
  * 
- * @author Loy Fu qq群 540553957 website = http://www.17jee.com
+ * 
  */
 public class CustomerQueryParam  extends DefaultDataPermissionQueryParam implements QueryParam {
     private String name;

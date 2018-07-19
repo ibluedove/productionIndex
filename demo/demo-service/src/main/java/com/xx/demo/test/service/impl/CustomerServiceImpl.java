@@ -27,7 +27,7 @@ import com.xx.demo.test.repository.CompanyRepository;
 import com.xx.demo.test.repository.CustomerRepository;
 /**
  * 
- * @author Loy Fu qq群 540553957 website = http://www.17jee.com
+ * 
  */
 @RestController
 @RequestMapping(value={"**/customer"}, method={RequestMethod.POST, RequestMethod.GET})

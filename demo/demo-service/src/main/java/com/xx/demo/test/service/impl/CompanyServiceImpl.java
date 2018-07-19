@@ -26,7 +26,7 @@ import com.xx.demo.test.domain.entity.CompanyEntity;
 import com.xx.demo.test.repository.CompanyRepository;
 /**
  * 
- * @author Loy Fu qq群 540553957 website = http://www.17jee.com
+ * 
  */
 @RestController
 @RequestMapping(value={"**/company"}, method={RequestMethod.POST, RequestMethod.GET})

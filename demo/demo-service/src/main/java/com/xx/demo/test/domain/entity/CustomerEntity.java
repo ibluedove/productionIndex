@@ -12,7 +12,7 @@ import com.loy.e.basic.data.domain.entity.DictionaryEntity;
 import org.springframework.format.annotation.DateTimeFormat;
 /**
  * 
- * @author Loy Fu qq群 540553957 website = http://www.17jee.com
+ * 
  */
 
 @Entity
